@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 100vw;
+    height: 10vh;
+    background-color: #0284C7;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.h1{
+    font-size: 45px;
+    width: 100vw;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}

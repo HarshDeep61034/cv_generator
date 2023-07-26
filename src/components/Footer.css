@@ -1,0 +1,15 @@
+.footer{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+a{
+    color: white;
+}
+
