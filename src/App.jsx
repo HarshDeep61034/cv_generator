@@ -24,7 +24,7 @@ function App() {
     <General handleData={handleData} />
     <Education handleData={handleData} />
     <Experience handleData={handleData} />
-    <Resume data={data} />
+      {data && <Resume data={data} />}
     <Footer />
         </>
   )
